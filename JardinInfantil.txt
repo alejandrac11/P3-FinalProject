@@ -1,0 +1,6 @@
+Jardin Infantil Párvulos
+4
+Helena,3,Exploradores,1,8
+Gael,4,Exploradores,3,7
+Camila,2,Salacuna,2,9
+Emilia,1,Salacuna,4,10
